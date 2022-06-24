@@ -464,7 +464,7 @@ footer span{
     footer div {
 
         display: block; 
-        margin: 15px 10px 15px 10px;
+        margin: 0px;
         font-family: Roboto-Regular;
         line-height: 23px;
         width: 100%;
