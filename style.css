@@ -268,8 +268,7 @@ footer span{
     .container {
         width: 100%;
         margin: 21px auto 0px auto;
-        padding-left: 2%;
-        padding-right: 2%;
+      
     }
 
     .container h1{
@@ -373,8 +372,7 @@ footer span{
     .container {
         width: 100%;
         margin: 21px auto 0px auto;
-        padding-left: 2%;
-        padding-right: 2%;
+        
     }
 
     .container h1 {
@@ -469,7 +467,9 @@ footer span{
         margin: 15px 10px 15px 10px;
         font-family: Roboto-Regular;
         line-height: 23px;
-    
+        width: 100%;
+        font-size: 75%;
+        margin: 0px;
     }
 
     #tablet-nav {
@@ -485,4 +485,6 @@ footer span{
     #tablet-nav a{
         background-color: #ffffffe8;
     }
+
+
  }
